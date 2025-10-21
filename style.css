@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "TopSecret";
+    src: url("./fontes/TopSecret.ttf") format(truetype);
+}
+
+@font-face {
+    font-family: "GimmeDanger";
+    src: url("./fontes/GimmeDanger.ttf") format(truetype);
+}
+
+@font-face {
+    font-family: "LLCOOPER";
+    src: url("./fontes/LLCOOPER.ttf") format(truetype);
+}
+
+body {  
+    background-color: #8ac4f3;
+    align-items: center;
+}
+
+h1 {
+    color: #331E21;
+    text-align: center;
+    border: #331E21 1px solid;
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: bolder;
+    box-shadow: 2px 2px 1px rgba(61, 24, 24, 0.500);
+
+}
+
